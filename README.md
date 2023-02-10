@@ -1,1 +1,2 @@
-# zero_day
+#!/bin/bash
+Zero day
